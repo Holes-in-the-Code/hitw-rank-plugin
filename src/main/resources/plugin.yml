@@ -1,5 +1,5 @@
 main: com.hitc.hitwrankplugin.main.Main
-name: HitW
+name: HitW-Rank-Manager
 version: 1.0
 api-version: 1.13
 author: Holes in the Code
